@@ -1,7 +1,7 @@
 About me
 
   - Lucas Voitina Giosele
-  - 17y
+  - 18y
   - JS, HTML, CSS
   - Brusque, Santa Catarina, Brasil
 
